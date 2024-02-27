@@ -1,0 +1,16 @@
+<Response>
+    <Pause length="1"/>
+    <Say voice="man">Hi Manny, My name is Pat. I am with a private investor and I am wondering if selling your house in the next 90 days is an option for you?</Say>
+    <Pause length="2"/>
+    <Say voice="man">Awesome, Are you living in the property or is it a rental?</Say>
+    <Pause length="2"/>
+    <Say voice="man">Could you please tell me what needs to be fixed in order to sell the property?</Say>
+    <Pause length="2"/>
+    <Say voice="man">I see, If you had the budget on hand what would be the updates you would do?</Say>
+    <Pause length="2"/>
+    <Say voice="man">Thank you for sharing Manny. Let me tell you we mostly buy properties "as-is" with no commissions and no closing costs. Would you be interested in getting a cash offer?</Say>
+    <Pause length="2"/>
+    <Say voice="man">Fantastic! The next step is having my partner call you to continue with the process. When would the best time for you?</Say>
+    <Pause length="2"/>
+    <Say voice="man">Phenomenal. Manny, My partner will call you back the day and time we agreed. If you have any questions you can call me at this same number. Have a great rest of your day!</Say>
+</Response>
